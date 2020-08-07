@@ -1,5 +1,7 @@
 {
   "name": "ionic-admob",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
